@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assignment 3 - OSSE 👋
 
 <!--
 **NehaShivaliYadav-2020mt93035/NehaShivaliYadav-2020mt93035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
